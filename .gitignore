@@ -44,3 +44,4 @@ Temporary Items
 *.pdb
 bin/Debug/Nx.Message.dll
 *.dll
+obj/Debug/Nx.Message.csproj.FileListAbsolute.txt
